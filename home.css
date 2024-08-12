@@ -191,6 +191,9 @@ nav li a:hover{
     text-decoration: none;
     color: white;
 }
+#contact a:hover{
+    color: rgb(28, 133, 168);
+}
 .totop{
     text-align: center;
 }
